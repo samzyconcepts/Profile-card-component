@@ -1,0 +1,14 @@
+{
+  "name": "profile-card-component-main",
+  "version": "1.0.0",
+  "description": "profile card component",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
+}

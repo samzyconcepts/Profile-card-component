@@ -1,0 +1,10 @@
+@media (max-width: 375px and 500px) {
+	.card-container {
+		height: 400px;
+		width: 350px;
+
+		& .card-image img {
+			transform: translate(7.5rem, 6rem);
+		}
+	}
+}
